@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskUploader", "TaskUploader\TaskUploader.csproj", "{3A50F8FF-09BA-4570-9BA4-919994EB21F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskUploader.Tests", "TaskUploader.Tests\TaskUploader.Tests.csproj", "{82E58A26-BC9C-49F8-85F9-F54DCDAA43FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskWindowsApp", "TaskWindowsApp\TaskWindowsApp.csproj", "{D6DE8DC1-82FD-41B9-860A-F5BEF1367AC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A50F8FF-09BA-4570-9BA4-919994EB21F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A50F8FF-09BA-4570-9BA4-919994EB21F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A50F8FF-09BA-4570-9BA4-919994EB21F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A50F8FF-09BA-4570-9BA4-919994EB21F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82E58A26-BC9C-49F8-85F9-F54DCDAA43FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E58A26-BC9C-49F8-85F9-F54DCDAA43FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E58A26-BC9C-49F8-85F9-F54DCDAA43FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E58A26-BC9C-49F8-85F9-F54DCDAA43FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6DE8DC1-82FD-41B9-860A-F5BEF1367AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6DE8DC1-82FD-41B9-860A-F5BEF1367AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6DE8DC1-82FD-41B9-860A-F5BEF1367AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6DE8DC1-82FD-41B9-860A-F5BEF1367AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

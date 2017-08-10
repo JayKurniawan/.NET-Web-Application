@@ -1,0 +1,16 @@
+E:\Projects\TaskUploader\TaskWindowsApp\bin\Debug\TaskWindowsApp.exe.config
+E:\Projects\TaskUploader\TaskWindowsApp\bin\Debug\TaskWindowsApp.exe
+E:\Projects\TaskUploader\TaskWindowsApp\bin\Debug\TaskWindowsApp.pdb
+E:\Projects\TaskUploader\TaskWindowsApp\obj\Debug\TaskWindowsApp.csprojResolveAssemblyReference.cache
+E:\Projects\TaskUploader\TaskWindowsApp\obj\Debug\TaskWindowsApp.Dashboard.resources
+E:\Projects\TaskUploader\TaskWindowsApp\obj\Debug\TaskWindowsApp.loginForm.resources
+E:\Projects\TaskUploader\TaskWindowsApp\obj\Debug\TaskWindowsApp.Properties.Resources.resources
+E:\Projects\TaskUploader\TaskWindowsApp\obj\Debug\TaskWindowsApp.csproj.GenerateResource.Cache
+E:\Projects\TaskUploader\TaskWindowsApp\obj\Debug\TaskWindowsApp.exe
+E:\Projects\TaskUploader\TaskWindowsApp\obj\Debug\TaskWindowsApp.pdb
+E:\Projects\TaskUploader\TaskWindowsApp\bin\Debug\Interop.AcroPDFLib.dll
+E:\Projects\TaskUploader\TaskWindowsApp\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Projects\TaskUploader\TaskWindowsApp\obj\Debug\Interop.AcroPDFLib.dll
+E:\Projects\TaskUploader\TaskWindowsApp\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Projects\TaskUploader\TaskWindowsApp\obj\Debug\TaskWindowsApp.csproj.ResolveComReference.cache
+E:\Projects\TaskUploader\TaskWindowsApp\obj\Debug\TaskWindowsApp.FileReader.resources
