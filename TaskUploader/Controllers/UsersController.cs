@@ -24,9 +24,9 @@ namespace TaskUploader.Controllers
 
         // GET: api/Users/5
         [ResponseType(typeof(User))]
-        public IHttpActionResult GetUser(int id)
+        public IHttpActionResult GetUser(string username, string password)
         {
-            User user = db.Users.Find(id);
+            User user = db.Users.Find(username, password);
             if (user == null)
             {
                 return NotFound();

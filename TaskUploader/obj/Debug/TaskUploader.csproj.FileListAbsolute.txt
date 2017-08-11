@@ -111,3 +111,5 @@ C:\Users\hp\Downloads\Task-Uploader-master\TaskUploader\bin\System.Web.Http.WebH
 C:\Users\hp\Downloads\Task-Uploader-master\TaskUploader\obj\Debug\TaskUploader.csprojResolveAssemblyReference.cache
 C:\Users\hp\Downloads\Task-Uploader-master\TaskUploader\obj\Debug\TaskUploader.dll
 C:\Users\hp\Downloads\Task-Uploader-master\TaskUploader\obj\Debug\TaskUploader.pdb
+C:\Users\hp\Downloads\Task-Uploader-master\TaskUploader\bin\EntityFramework.dll
+C:\Users\hp\Downloads\Task-Uploader-master\TaskUploader\bin\EntityFramework.SqlServer.dll
