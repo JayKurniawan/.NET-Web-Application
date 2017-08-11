@@ -11,11 +11,17 @@ namespace TaskUploader.Models
 {
     using System;
     using System.Collections.Generic;
+    using System.ComponentModel.DataAnnotations;
     
     public partial class Article
     {
         public int FileId { get; set; }
+
+        [Required(ErrorMessage = "Filename is required.")]
+        [Display(Name ="Filename")]
         public string FileName { get; set; }
+
+        [Display(Name = "File")]
         public string FileLink { get; set; }
     }
 }

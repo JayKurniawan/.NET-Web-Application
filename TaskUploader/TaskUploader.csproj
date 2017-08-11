@@ -189,9 +189,6 @@
     <Content Include="Views\Home\Login.cshtml" />
     <Content Include="Views\Home\Welcome.cshtml" />
     <Content Include="Views\Articles\Create.cshtml" />
-    <Content Include="Views\Articles\Delete.cshtml" />
-    <Content Include="Views\Articles\Details.cshtml" />
-    <Content Include="Views\Articles\Edit.cshtml" />
     <Content Include="Views\Articles\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
@@ -244,6 +241,9 @@
     <Content Include="Views\FileUpload\Submit.cshtml" />
     <Content Include="Views\UploadFile\Upload.cshtml" />
     <Content Include="Views\UploadFile\List.cshtml" />
+    <Content Include="Views\UploadFile\Delete.cshtml" />
+    <Content Include="Views\UploadFile\Edit.cshtml" />
+    <Content Include="Views\UploadFile\Details.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -252,7 +252,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Files\PDF\" />
+    <Folder Include="Files\" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
