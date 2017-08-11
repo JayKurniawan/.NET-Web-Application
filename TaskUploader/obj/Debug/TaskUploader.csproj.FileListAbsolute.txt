@@ -71,8 +71,6 @@ C:\Users\hp\Downloads\Task-Uploader-master\TaskUploader\bin\roslyn\VBCSCompiler.
 C:\Users\hp\Downloads\Task-Uploader-master\TaskUploader\bin\TaskUploader.dll.config
 C:\Users\hp\Downloads\Task-Uploader-master\TaskUploader\bin\TaskUploader.dll
 C:\Users\hp\Downloads\Task-Uploader-master\TaskUploader\bin\TaskUploader.pdb
-C:\Users\hp\Downloads\Task-Uploader-master\TaskUploader\bin\EntityFramework.dll
-C:\Users\hp\Downloads\Task-Uploader-master\TaskUploader\bin\EntityFramework.SqlServer.dll
 C:\Users\hp\Downloads\Task-Uploader-master\TaskUploader\bin\Microsoft.AI.Agent.Intercept.dll
 C:\Users\hp\Downloads\Task-Uploader-master\TaskUploader\bin\Microsoft.AI.DependencyCollector.dll
 C:\Users\hp\Downloads\Task-Uploader-master\TaskUploader\bin\Microsoft.AI.PerfCounterCollector.dll
