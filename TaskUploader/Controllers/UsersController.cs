@@ -23,17 +23,16 @@ namespace TaskUploader.Controllers
         }
 
         // GET: api/Users/5
-        [ResponseType(typeof(User))]
-        public IHttpActionResult GetUser(string username, string password)
-        {
-            User user = db.Users.Find(username, password);
-            if (user == null)
-            {
-                return NotFound();
-            }
+        //[ResponseType(typeof(User))]
+        //public User Get(string username, string password)
+        //{
+        //    User user = new User();
 
-            return Ok(user);
-        }
+        //    user.UserName = username;
+        //    user.Password = password;
+
+        //    return user;
+        //}
 
         // PUT: api/Users/5
         [ResponseType(typeof(void))]

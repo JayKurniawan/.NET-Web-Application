@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskUploader.Tests", "TaskU
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskWindowsApp", "TaskWindowsApp\TaskWindowsApp.csproj", "{D6DE8DC1-82FD-41B9-860A-F5BEF1367AC4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServices", "WebServices\WebServices.csproj", "{EACFB02C-043F-4D50-AECD-1EA91D8AFBFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D6DE8DC1-82FD-41B9-860A-F5BEF1367AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6DE8DC1-82FD-41B9-860A-F5BEF1367AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6DE8DC1-82FD-41B9-860A-F5BEF1367AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EACFB02C-043F-4D50-AECD-1EA91D8AFBFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EACFB02C-043F-4D50-AECD-1EA91D8AFBFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EACFB02C-043F-4D50-AECD-1EA91D8AFBFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EACFB02C-043F-4D50-AECD-1EA91D8AFBFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

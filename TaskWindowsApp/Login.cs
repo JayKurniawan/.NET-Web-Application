@@ -21,15 +21,18 @@ namespace TaskWindowsApp
         private void btnLogin_Click(object sender, EventArgs e)
         {
 
+            var username = txtUsername.Text;
+            var password = txtPassword.Text;
+
             HttpClient client = new HttpClient();
-            client.BaseAddress = new Uri("http://localhost:2460/api/Users/GetUser");
-            HttpResponseMessage response = client.GetAsync("api/Users/GetUser").Result;
+            client.BaseAddress = new Uri("http://localhost:2460/api/Users");
+            HttpResponseMessage response = client.GetAsync("?username=" + username + "&password=" + password).Result;
             if (response.IsSuccessStatusCode)
             {
                 this.Hide();
 
-                Dashboard dashbard = new Dashboard();
-                dashbard.Show();
+                Dashboard dashboard = new Dashboard();
+                dashboard.Show();
             }
         }
     }
